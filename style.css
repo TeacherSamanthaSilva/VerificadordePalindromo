@@ -90,3 +90,12 @@
     font-size: 1rem;
 
   }
+
+  button{
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: #fcaf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
