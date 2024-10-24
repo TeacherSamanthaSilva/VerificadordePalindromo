@@ -1,0 +1,1 @@
+const botaoVerificar  = document.querySelector("#botao-verificar");
